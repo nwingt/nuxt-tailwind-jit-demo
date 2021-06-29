@@ -46,6 +46,28 @@ export default {
   tailwindcss: {
     config: {
       mode: 'jit',
+      // theme: {
+      //   colors: {
+      //     'like-green': '#28646e',
+      //     'like-cyan': '#50e3c2',
+      //     'like-cyan-light': '#aaf1e7',
+      //     'like-cyan-pale': '#d7ecec',
+      //     'grey-4a': '#4a4a4a',
+      //     'grey-9b': '#9b9b9b',
+      //     'grey-f7': '#f7f7f7',
+      //     'white': '#fff',
+      //   },
+      //   spacing: {
+      //     '0': '0',
+      //     '4': '4px',
+      //     '8': '8px',
+      //     '12': '12px',
+      //     '16': '16px',
+      //     '24': '24px',
+      //     '32': '32px',
+      //     '48': '48px',
+      //   },
+      // },
     },
   },
 }
